@@ -1,0 +1,7 @@
+devices:
+  - address: 10.0.0.1
+    username: prometheus
+    password: prometheus
+    features:
+      power: true
+      sessions: true
